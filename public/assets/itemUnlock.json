@@ -1,0 +1,13 @@
+{
+  "name": "itemUnlock",
+  "version": "1.0.0",
+  "data": [
+    { "id":  101, "stageId": 1000, "itemId": [1] },
+    { "id":  201, "stageId": 1001, "itemId": [1, 2] },
+    { "id":  301, "stageId": 1002, "itemId": [1, 2, 3] },
+    { "id":  401, "stageId": 1003, "itemId": [1, 2, 3, 4] },
+    { "id":  501, "stageId": 1004, "itemId": [1, 2, 3, 4, 5] },
+    { "id":  601, "stageId": 1005, "itemId": [1, 2, 3, 4, 5, 6] },
+    { "id":  701, "stageId": 1006, "itemId": [1, 2, 3, 4, 5, 6] }
+  ]
+}
